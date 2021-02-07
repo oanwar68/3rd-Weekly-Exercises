@@ -1,1 +1,1 @@
-# 3rd-Weekly-Exercises
+# 3rd_Weekly_Exercises
